@@ -119,7 +119,7 @@ def Monitor():
 	'''
 		Monitor attack
 	'''
-	print ATTACK
+	print TanCong
 	FMT = '{:^15}|{:^15}|{:^15}|{:^15}'
 	start = time.time()
 	while True:
